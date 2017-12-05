@@ -1,0 +1,7 @@
+http://www.hotnews.ro/iphone-categories.xml
+
+http://www.hotnews.ro/iphone-homepage.xml
+
+http://www.hotnews.ro/iphone-articles-for-categories.xml?p_6252647__includedCategories=20000,20020,20040,20060,20100,8330459,20200,20140,13171755,21772809,21917253&p_6252647__page=2
+
+http://www.hotnews.ro/iphone-articol.xml?articleId=22158585
